@@ -1,0 +1,32 @@
+{
+  "name": "generate-poster",
+  "version": "1.0.0",
+  "description": "A simple Bash script that extracts the first frame from all `.mp4` video files in the current directory to generate poster images. This tool uses `ffmpeg` to create high-quality poster images, preventing white screens during video transitions.",
+  "main": "generate_poster.sh",
+  "scripts": {
+    "generate": "bash generate_poster.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fix2015/generate_poster.git"
+  },
+  "keywords": [
+    "poster",
+    "video",
+    "ffmpeg",
+    "mp4",
+    "generate",
+    "thumbnail",
+    "first-frame",
+    "image-extraction",
+    "bash-script",
+    "video-processing",
+    "automation"
+  ],
+  "author": "Semianchuk Vitalii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fix2015/generate_poster/issues"
+  },
+  "homepage": "https://github.com/fix2015/generate_poster#readme"
+}
