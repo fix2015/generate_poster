@@ -69,3 +69,10 @@ These posters can then be used in your video player configuration to enhance the
 ---
 
 ## This repository was created to generate posters for the **[interactive-video-player](https://github.com/fix2015/interactive-video-player)**.
+
+## License
+
+MIT License  
+Copyright (c) 2024 Vitalii Semianchuk  
+
+[LinkedIn Profile](https://www.linkedin.com/in/vitalii-semianchuk-9812a786/)
